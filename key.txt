@@ -1,7 +1,1 @@
-skjfasjfkasjfkljsaasklfj | Nombredeusuario1 | d05c3238-bcc8-4fc9-a36e-7218bfc644f1 | HWID1
-askfkasfkkasixclllxlzcll | Nombredeusuario2 | f5caee1d-2a65-401c-9175-8205e8571e76 | HWID2
-aslfalszñzñññz++as+sa+d+ | Nombredeusuario3 | 8667ba71-b85a-4004-af54-457a9734eed7 | HWID3
-ususkakzkkalsaldo3939923 | Nyaruui | 03c10646-9ef8-40c6-babc-ea941c1209b6 | S521NBCV00VDU7MB-178BFBFF008A0F00-0025_38EC_31B4_E462.
-dani | daaaaniiiii | 153c0a86-b6b0-4176-9e08-bba9d3f703f1 | S521NBCV00VDU7MB-178BFBFF008A0F00-0025_38EC_31B4_E462.
-Mvrdaaaa | Mvrdaaaa | 3ea8475c-c846-4ea4-a1a8-1129854a868c | 07C5630_N21E854129-178BFBFF00A50F00-50026B768331313A
-ubz | ubz | 6279b581-ac45-4cbc-b4b8-d0de3681663b | XC204TE251075EB-BFEBFBFF000706A8-df7f30d0
+
